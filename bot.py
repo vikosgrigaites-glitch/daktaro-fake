@@ -2038,7 +2038,7 @@ def main_menu_keyboard(basket_count: int):
             InlineKeyboardButton("💳 Papildyti", callback_data='menu_topup')
         ],
         [
-            InlineKeyboardButton("💬 Atsiliepimai", "),
+            InlineKeyboardButton("💬 Atsiliepimai", https://t.me/thcdoctor"),
             InlineKeyboardButton("🏷 Kainoraštis", callback_data='menu_pricelist')
         ]
     ])
